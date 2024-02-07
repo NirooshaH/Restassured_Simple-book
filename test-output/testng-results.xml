@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T12:18:41 IST" name="Default suite" finished-at="2024-02-07T12:18:45 IST" duration-ms="3529">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T12:18:41 IST" name="Default test" finished-at="2024-02-07T12:18:45 IST" duration-ms="3529">
+      <class name="Simplebook.SimpleBooks_apis">
+        <test-method signature="Authenticate()[pri:1, instance:Simplebook.SimpleBooks_apis@50b472aa]" started-at="2024-02-07T12:18:41 IST" name="Authenticate" finished-at="2024-02-07T12:18:45 IST" duration-ms="3492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authenticate -->
+      </class> <!-- Simplebook.SimpleBooks_apis -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
